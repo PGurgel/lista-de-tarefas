@@ -18,7 +18,7 @@
     border-radius: 10px;
 }
 .siderbar-nav ul li a:hover{
-    background-color: rgb(109, 108, 108);
+    background-color: #0039CC;
 }
 .dropdown-divider{
     border: 1px solid white;
