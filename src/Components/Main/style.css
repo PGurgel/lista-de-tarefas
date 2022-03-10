@@ -1,0 +1,16 @@
+.main{
+    margin: 10% 0 0 20%;
+    width: 60%;
+}
+.main input{
+    background-color: #e9ecef;
+}
+.main-text{
+    margin-top: 5%;
+}
+img{
+    width: 30px;
+}
+.button-tarefa{
+    margin: 20% 0 0 80%;
+}

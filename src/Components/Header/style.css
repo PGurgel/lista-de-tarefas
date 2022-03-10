@@ -1,0 +1,25 @@
+.offcanvas-body{
+    background-color: #0047FF;
+}
+.header-nav{
+    background-color: transparent;
+}
+.bg-light{
+    background-color: #fff;
+}
+.siderbar-nav ul li a{
+    font-size: 26px;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    margin-left: 40px;
+    transition: 0.5s;
+    color: #fff;
+    border-radius: 10px;
+}
+.siderbar-nav ul li a:hover{
+    background-color: rgb(109, 108, 108);
+}
+.dropdown-divider{
+    border: 1px solid white;
+}
