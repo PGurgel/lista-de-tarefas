@@ -1,7 +1,7 @@
 import './style.css';
 export default function Header() {
     return (
-        <div className='header'>
+        <div>
             <div className="siderbar-nav">
                 <div className="navbar navbar-light fixed-top header-nav">
                     <nav className="container">
