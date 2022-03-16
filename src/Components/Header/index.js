@@ -1,7 +1,7 @@
 import './style.css';
 export default function Header() {
     return (
-        <div>
+        <>
             <div className="siderbar-nav">
                 <div className="navbar navbar-light fixed-top header-nav">
                     <nav className="container">
@@ -22,6 +22,6 @@ export default function Header() {
                     </nav>
                 </div>
             </div>
-        </div>
+        </>
     );
 }

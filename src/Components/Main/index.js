@@ -6,7 +6,7 @@ import Tarefas from './Tarefas';
 
 export default function Main() {
     return (
-        <div className="main">
+        <div className='main'>
             <Busca />
             <Tarefas />
             <Button />
