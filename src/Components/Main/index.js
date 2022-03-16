@@ -1,4 +1,5 @@
 import './style.css';
+import '../../scripts/script';
 import Busca from './Busca';
 import Button from './Button';
 import Modal from './Modal';

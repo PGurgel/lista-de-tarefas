@@ -11,10 +11,10 @@ export default function Modal() {
                         </div>
                         <div className="modal-body">
                             <span data-bs-dismiss="modal">Nome da tarefa</span>
-                            <input type="text" className="form-control" aria-label="tarefas" aria-describedby="basic-addon1" />
+                            <input type="text" className="form-control" aria-label="tarefas" aria-describedby="basic-addon1" id="name"/>
 
                             <span data-bs-dismiss="modal">Descrição da tarefa</span>
-                            <input type="text" className="form-control" aria-label="tarefas" aria-describedby="basic-addon1" />
+                            <input type="text" className="form-control" aria-label="tarefas" aria-describedby="basic-addon1" id='tarefa_descricao' />
                         </div>
                         <div className="modal-footer">
                             <span className='btn text' data-bs-dismiss="modal">CANCELAR</span>
