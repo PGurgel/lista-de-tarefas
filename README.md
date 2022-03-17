@@ -6,6 +6,14 @@
 
 >Data de término: 17 março de 2020.
 
+## Rodar o projeto
+
+>Primeiro clone o projeto
+>Segundo npm install
+>Terceiro npm start run
+
+>>Qualquer dificulade entre em contato: pgurgelbezerra@gamil.com
+
 ## Tecnologias
 >As tecnoligas para desevolver tal projeto, utilizei HTML, CSS, Javascript, Bootstrap 5 (biblioteca CSS) e Reactjs.
 
